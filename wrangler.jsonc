@@ -1,0 +1,9 @@
+{
+  "name": "your-local-appliance-repair",
+  "compatibility_date": "2026-11-05",
+  "assets": {
+    "directory": ".",
+    "html_handling": "none",
+    "not_found_handling": "404-page"
+  }
+}
